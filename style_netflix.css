@@ -1,0 +1,75 @@
+body {
+    background-image: url(https://genotipia.com/wp-content/uploads/2020/04/Netflix-Background-prueba-1.jpg);
+    font-family: sans-serif;
+}
+header {
+    background-color: rgba(0, 0, 0, 0.781);
+    padding: 15px;
+    margin: 10px;
+    justify-content: left;
+    border-radius: 20px;
+}
+main {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 35px;
+    margin: 10px;
+    height: 550px;
+}
+.grid_container {
+    display: grid;
+    background-color: rgba(255, 255, 255, 0);
+    justify-content: center;
+    padding: 30px;
+}
+.grid_container2 {
+    background-color: rgba(0, 0, 0, 0.781);
+    border-radius: 25px;
+    text-align: center;
+    padding: 10px;
+    color: rgb(134, 134, 134);
+}
+.grid_container2 a {
+    color: white;
+    text-decoration: none;
+}
+.grid_container2 div {
+    text-align: left;
+    padding: 30px;
+}
+.grid_container2 div a {
+    color: white;
+    text-decoration: none;
+}
+.cajainputs {
+    border-radius: 5px;
+    border: 0px;
+    width: 250px;
+    height: 45px;
+}
+.cajabotones {
+    border-radius: 5px;
+    border: 0px;
+    width: 250px;
+    height: 45px;
+}
+#masinfo {
+    color: rgb(41, 41, 233);
+}
+#titulo {
+    color: white;
+}
+#botoninicio {
+    background-color: red;
+    color: white;
+}
+#botoncodigo {
+    background-color: rgba(100, 100, 100, 0.603);
+    color: white;
+}
+#logo {
+    width: 200px;
+    height: 50px;
+}
+#emailbox {
+    box-shadow: 40px;
+}
